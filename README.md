@@ -70,8 +70,6 @@ Dynamic_Programming/
   ├── README.md
   ├── climbing_stairs.py
 
-UYYYYYYYYYYYYYYYY---
-
 ## 📈 Progress
 
 ### ✅ Overall
